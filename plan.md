@@ -9,6 +9,7 @@ Setup steps
 7. Create the ability to save data in a firebase database (Done)
 8. Create the functionality to grab the data from the database (Done)
 9. Create the functionality to update the data with the new status of completed or active (Done)
+10. desktop, laptop & phones
 
 ## the following is firebase code
 
