@@ -1,3 +1,6 @@
+// Updates
+// make the <span> Clear Completed btn work
+
 function addItem() {
   event.preventDefault();
   let text = document.getElementById("todo-input");
